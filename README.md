@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=emilenkz&base=247&abbreviated=true&label=Profile+views+of+emilenkz&color=dark)
+![](https://komarev.com/ghpvc/?username=emilenkz&base=247&abbreviated=true&label=Profile+views+of+emilenkz&color=grey)
 ## 🔍・Statistique GitHub
 
 <div align="center">

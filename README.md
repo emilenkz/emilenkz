@@ -1,5 +1,4 @@
-![](https://img.shields.io/static/v1?label=Profile+views&message=1.4k&color=grey)
-![](![](https://komarev.com/ghpvc/?username=emilenkz&base=247&abbreviated=true&label=Profile+views+of+emilenkz&color=dark))
+![](https://komarev.com/ghpvc/?username=emilenkz&base=247&abbreviated=true&label=Profile+views+of+emilenkz&color=dark)
 ## 🔍・Statistique GitHub
 
 <div align="center">

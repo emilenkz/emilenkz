@@ -2,7 +2,7 @@
 ## 🔍・Statistique GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emilenkz&locale=fr&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats Graph" include_all_commits=true>
+  <img src="https://github-readme-stats.vercel.app/api?username=emilenkz&locale=fr&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" height="150" alt="Stats Graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilenkz&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="Languages Graph">
 </div>
 
